@@ -3,6 +3,6 @@
     "description": "FallendevilDx Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/FallendevilDx/extensions/master/repo.json"
+      "https://raw.githubusercontent.com/FallendevilDx/Cdxdt/master/repo.json"
     ]
 }
